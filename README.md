@@ -1,4 +1,4 @@
-[![MasterHead](https://vivago.ai/favorite?activeTab=wink)](https://vivago.ai/editUser?id=fda19939-4695-4650-9175-6f335cc72067)
+[![MasterHead](https://vivago.ai/favorite?activeTab=wink)](https://vivago.ai/favorite?activeTab=wink)
 
 <h1 align="center">Hi 👋, I'm Tanveer Fatima</h1>
 <h3 align="center">A passionate CSE undergrad specializing in B.E. in Computer Science Engineering (IoT, Cybersecurity including Blockchain Technology) | Cybersecurity Enthusiast | Graphic Designer. I aim to leverage my skills to make a meaningful impact in the tech world.</h3>
